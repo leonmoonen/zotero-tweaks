@@ -44,16 +44,16 @@
 		"_iconSourceURI": "https://scholar.google.com/favicon.ico"
 	},
 	{
-    	"_name": "Connected Papers",
-    	"_alias": "Connected Papers",
-    	"_urlTemplate": "https://connectedpapers.com/api/redirect/doi/{z:DOI}",
-    	"_description": "Explore connected papers in a visual graph",
-    	"_urlParams": [],
-    	"_hidden": false,
-    	"_icon": "https://www.connectedpapers.com/favicon.ico",
-    	"_urlNamespaces": {
+		"_name": "Connected Papers",
+		"_alias": "Connected Papers",
+		"_urlTemplate": "https://connectedpapers.com/api/redirect/doi/{z:DOI}",
+		"_description": "Explore connected papers in a visual graph",
+		"_urlParams": [],
+		"_hidden": false,
+		"_icon": "https://www.connectedpapers.com/favicon.ico",
+		"_urlNamespaces": {
 			"z": "http://www.zotero.org/namespaces/openSearch#"
-	    }
+		}
 	},
 	{
 		"_name": "Google using Title",
