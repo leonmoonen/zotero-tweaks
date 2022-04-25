@@ -1,6 +1,6 @@
 # zotero-tweaks
 
-Placeholder for teaking Zotero, such as added Lookup Engines.
+Placeholder for tweaking Zotero, such as added Lookup Engines.
 
 ## Lookup Engines
 
