@@ -82,6 +82,32 @@
 		"_iconSourceURI": "https://oadoi.org/static/img/favicon.png"
 	},
 	{
+		"_name": "Scopus",
+		"_alias": "Elsevier Scopus",
+		"_description": "Elsevier Scopus",
+		"_icon": "https://www.scopus.com/static/proteus-images/favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "https://www.scopus.com/results/results.uri?src=s&sot=a&sdt=a&s=TITLE%28%22{z:title}%22%29+AND+PUBYEAR+IS+{z:year?}&origin=searchadvanced",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		},
+		"_iconSourceURI": "https://www.scopus.com/static/proteus-images/favicon.ico"
+	},
+	{
+		"_name": "Sci-Hub DOI",
+		"_alias": "Sci-Hub DOI",
+		"_description": "SciHub Lookup Lookup",
+		"_icon": "https://raw.githubusercontent.com/leonmoonen/zotero-tweaks/master/icons/scihub.png",
+		"_hidden": false,
+		"_urlTemplate": "http://sci-hub.ru/{z:DOI}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		},
+		"_iconSourceURI": "https://raw.githubusercontent.com/leonmoonen/zotero-tweaks/master/icons/scihub.png"
+	},
+	{
 		"_name": "LibGen article using DOI",
 		"_alias": "LibGen",
 		"_description": "Look up scientific article on LibGen using DOI",
