@@ -99,7 +99,7 @@
 		"_alias": "Sci-Hub DOI",
 		"_description": "SciHub Lookup Lookup",
 		"_icon": "https://raw.githubusercontent.com/leonmoonen/zotero-tweaks/master/icons/scihub.png",
-		"_hidden": false,
+		"_hidden": true,
 		"_urlTemplate": "http://sci-hub.ru/{z:DOI}",
 		"_urlParams": [],
 		"_urlNamespaces": {
