@@ -95,12 +95,12 @@
 		"_iconSourceURI": "https://www.scopus.com/static/proteus-images/favicon.ico"
 	},
 	{
-		"_name": "Sci-Hub DOI",
+		"_name": "Sci-Hub DOI (broken due to encoding)",
 		"_alias": "Sci-Hub DOI",
-		"_description": "SciHub Lookup Lookup",
+		"_description": "SciHub Lookup using DOI",
 		"_icon": "https://raw.githubusercontent.com/leonmoonen/zotero-tweaks/master/icons/scihub.png",
 		"_hidden": true,
-		"_urlTemplate": "http://sci-hub.ru/{z:DOI}",
+		"_urlTemplate": "http://sci-hub.se/{z:DOI}",
 		"_urlParams": [],
 		"_urlNamespaces": {
 			"z": "http://www.zotero.org/namespaces/openSearch#"
