@@ -11,3 +11,6 @@ your [Zotero data directory](https://www.zotero.org/support/zotero_data).
 
 The folder `lookup_engines` contains my configuration of lookup engines, and
 a Makefile to install it (after making a backup of the previous version).
+
+NOTE: to prevent issues, it's best to exit Zotero, run `make install` and 
+then start Zotero again. 
